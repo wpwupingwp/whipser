@@ -1,0 +1,2 @@
+# whipser
+use openai whisper
